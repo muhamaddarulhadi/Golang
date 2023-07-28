@@ -20,3 +20,8 @@
 3. https://medium.com/@mossila/running-go-behind-iis-ce1a610116df
 4. https://psrdotcom.blogspot.com/2020/11/run-or-deploy-go-golang-project-code-in.html
 5. https://labod.co/posts/running_a_go_project_with_iis
+6. https://learn.microsoft.com/en-us/answers/questions/254320/which-handler-is-preferred-to-host-golang-api-as-a
+7. https://hackmd.io/@kamael/iisHostGolang
+8. https://forum.golangbridge.org/t/how-to-run-the-go-web-app-at-windows-server/30436
+9. https://www.youtube.com/watch?v=_dWXQVGZtJE
+10. https://github.com/top-solution/go-iis-auth
